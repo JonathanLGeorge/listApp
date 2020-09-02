@@ -100,7 +100,7 @@ class App extends React.Component {
   return (
     <div>
 
-      <h2>This is a simple items list that will generate a random colored back ground once you press (Add)</h2>
+
       <div className="App">
         
         <header>
